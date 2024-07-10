@@ -12,7 +12,7 @@ Application can be run using the cmd and a cpp complier like MinGW using command
 
 ## 
 
-![App Screenshot1](ss\1.png)
-![App Screenshot2](ss\2.png)
-![App Screenshot3](ss\3.png)
+![App Screenshot1](\ss\1.png)
+![App Screenshot2](\ss\2.png)
+![App Screenshot3](\ss\3.png)
 
