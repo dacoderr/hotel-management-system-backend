@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\okasp\Desktop\project\main.cpp(92,24): warning C4101: 's': unreferenced local variable
+C:\Users\okasp\Desktop\project\main.cpp(416,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\okasp\Desktop\project\main.cpp(564,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  project.vcxproj -> C:\Users\okasp\Desktop\project\x64\Debug\project.exe
